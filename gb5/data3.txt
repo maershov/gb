@@ -1,0 +1,10 @@
+Family1 10000
+Family2 12000
+Family3 13000
+Family4 21000
+Family5 22000
+Family6 24000
+Family7 110000
+Family8 12000
+Family9 35000
+Family10 78000
